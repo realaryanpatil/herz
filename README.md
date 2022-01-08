@@ -6,7 +6,7 @@ A web based nerual network to calculate the risk of heart disease.
 
 1. Make sure you have Python3 installed
 2. install the following modules : django, pandas, tensorflow, sklearn
-3. open your terminal, navigate to the folder downloaded (example: cd desktop/platinum1)
+3. open your terminal, navigate to the folder downloaded (example: cd desktop/herz)
 4. run the following command: python3 manage.py runserver
 5. the web app should be available in your browser at http://127.0.0.1:8000/
 
